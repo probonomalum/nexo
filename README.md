@@ -1,3 +1,3 @@
 # nexo
 
-This is the readme file.
+This is the document branch of the nexo repsitory.
